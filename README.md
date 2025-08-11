@@ -9,6 +9,9 @@
 🚀 **Currently:** Transitioning to Technology career  
 🌱 **Focus:** Full Stack Development and Software Architecture
 
+📫 Connect with me: "[Linkedin](https://www.linkedin.com/in/luis-filipe-varela-31161b79)"
+<br/>
+
 ### 🤖 Languages and Technologies
 
 <img 
