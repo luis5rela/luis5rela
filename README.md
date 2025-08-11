@@ -1,15 +1,15 @@
-# LuisVarela
+# Hello, I'm Luis Filipe Varela! 👋
 
 **`Software Engineer`**
-## Sobre mim
 
-🎂 **Idade:** 36 anos   
-🎓 **Formação:** Engenheiro Mecânico (2010)  
-🚀 **Atualmente:** Em transição de carreira para Tecnologia  
-🌱 **Foco:** Desenvolvimento Full Stack e Arquitetura de Software
+## About Me
 
+🎂 **Age:** 36 years old   
+🎓 **Education:** Mechanical Engineer (2010)  
+🚀 **Currently:** Transitioning to Technology career  
+🌱 **Focus:** Full Stack Development and Software Architecture
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -78,7 +78,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -95,5 +95,4 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis5rela&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
